@@ -1,10 +1,10 @@
 <?php
 ob_start();
 
-$dbname = "doogle";
-$dbhost = "mysql_db";
-$dbuser = "doogle";
-$dbpass = "PASSWORD_HERE";
+$dbname = "dbs13001276";
+$dbhost = "db5015954980.hosting-data.io";
+$dbuser = "dbu569456";
+$dbpass = "Hi9hay9den";
 
 try 
 {
