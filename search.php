@@ -23,8 +23,8 @@ $page = isset($_GET["page"]) ? $_GET["page"] : 1;
 	<link rel="android-chrome-icon" type="image/png" href="assets/images/favicon/android-chrome-512x512.png">
 
 	<meta name="description" content="Search the web for sites and images.">
-	<meta name="keywords" content="Search engine, doogle, websites">
-	<meta name="author" content="Zepher Ashe">
+	<meta name="keywords" content="Search engine, memeitizer, websites">
+	<meta name="author" content="Memeitizer Limited">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" /> -->
