@@ -14,14 +14,14 @@ SET time_zone = "+00:00";
 --
 -- User Creation: `doogle`
 --
-CREATE USER IF NOT EXISTS 'doogle'@'%' IDENTIFIED BY 'PASSWORD_HERE';
-GRANT SELECT, INSERT, UPDATE ON `doogle`.* TO 'doogle'@'%';
+CREATE USER IF NOT EXISTS 'memeitizer'@'%' IDENTIFIED BY 'Hi9hay9den';
+GRANT SELECT, INSERT, UPDATE ON `meme`.* TO 'memeitizer'@'%';
 
 --
 -- Database: `doogle`
 --
-CREATE DATABASE IF NOT EXISTS `doogle` DEFAULT CHARACTER SET utf8mb4;
-USE `doogle`;
+CREATE DATABASE IF NOT EXISTS `meme` DEFAULT CHARACTER SET utf8mb4;
+USE `meme`;
 
 -- --------------------------------------------------------
 
