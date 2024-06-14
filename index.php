@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Doogle Web Crawler</title>
+	<title>Memeitizer Web Crawler</title>
 
 	<meta name="description" content="Search the web for sites and images.">
-	<meta name="keywords" content="search engine, doogle, websites">
-	<meta name="author" content="Zepher Ashe">
+	<meta name="keywords" content="search engine, memeitizer, websites">
+	<meta name="author" content="Memeitizer Limited">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="icon" type="image/x-icon" href="assets/images/favicon/favicon.ico">
